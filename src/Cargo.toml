@@ -24,7 +24,7 @@ pretty_assertions = "1.4.0"
 regex = "1.10.3"
 rustc-hash = "2.0.0"
 smallvec = "1.13.1"
-thiserror = "1.0.57"
+thiserror = "2.0.0"
 unicode-ident = "1.0.12"
 
 [package]
